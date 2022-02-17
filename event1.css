@@ -166,6 +166,10 @@ body, html {
 	cursor: pointer;
 
 }
+.velika_slika .button:hover{
+  	color: #bf80ff;
+}
+
 .see_pic{
 
 	text-align: center;
@@ -343,7 +347,7 @@ p{
 		padding-top: 15px;
 	}
 	.button{
-		top: 0px;
+		top: 10px;
 		right: 0px;
 		width: 40px;
 		font-size: 30px;
